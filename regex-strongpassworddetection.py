@@ -17,4 +17,3 @@ if (endResult):
     print('Valid Password')
 else:
     print(border + 'Invalid Password\nRequirements listed below\n*At least eight characters long-\n*Contains both uppercase and lowercase characters-\n*Has at least one digit-\n' + border)
-n w45
